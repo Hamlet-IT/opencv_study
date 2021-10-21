@@ -1,0 +1,4 @@
+[blur]   blur(src, dst, ksize, anchor, borderType)
+//Blurs an image using the normalized box filter.
+//The function smooths an image using the kernel:
+//eg:size(3,3)为3x3的内核 
